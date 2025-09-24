@@ -81,7 +81,7 @@ Spark uses advanced document intelligence and learning analytics to:
 - npm or yarn
 
 ### Installation
-```bash
+bash
 # Clone the repository
 git clone https://github.com/your-username/spark-education.git
 
@@ -98,7 +98,9 @@ npm run build
 
 # Deploy to your preferred platform (Vercel, Netlify, etc.)
 
-🔮 Future Roadmap
+
+
+### 🔮 Future Roadmap
 
 Phase 1: Enhanced AI Integration
 
